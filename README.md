@@ -1,2 +1,2 @@
 # VidDoubt
-A video based double solving platform
+A video based doubt solving platform
